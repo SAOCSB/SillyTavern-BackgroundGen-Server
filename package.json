@@ -1,0 +1,12 @@
+{
+    "name": "sillytavern-backgroundgen-server",
+    "version": "1.0.0",
+    "description": "SillyTavern server plugin: keeps generations running when the browser disconnects (companion of SillyTavern-BackgroundGen).",
+    "type": "module",
+    "main": "index.mjs",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SAOCSB/SillyTavern-BackgroundGen-Server.git"
+    }
+}
